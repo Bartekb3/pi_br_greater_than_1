@@ -1,8 +1,0 @@
-{
-    "Abalone_1_preprocessed.csv": "Rings",
-    "Appliances_Energy_Prediction_374_preprocessed.csv": "Appliances",
-    "Combined_Cycle_Power_Plant_294_preprocessed.csv": "PE",
-    "Energy_Efficiency_242_preprocessed.csv": "Y1",
-    "Student_Performance_320_preprocessed.csv": "G3",
-    "Wine_Quality_186_preprocessed.csv": "quality"
-}
